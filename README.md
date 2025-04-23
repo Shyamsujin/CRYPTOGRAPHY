@@ -4,7 +4,7 @@
 ## Name:SHYAM SUJIN U
 ## Reg No.212223040201
  
-## AIM
+## AIM:
 
 To write a  program to implement the hill cipher substitution techniques.
 
@@ -29,7 +29,7 @@ STEP-1: Read the plain text and key from the user. STEP-2: Split the plain text 
 STEP-4: Multiply the two matrices to obtain the cipher text of length three.
 STEP-5: Combine all these groups to get the complete cipher text.
 
-## PROGRAM 
+## PROGRAM:
 ```
 import numpy as np
 
@@ -80,8 +80,8 @@ if __name__ == "__main__":
     print("Decrypted Text:", decrypted_text)
 
 ```
-## OUTPUT
+## OUTPUT:
 ![Screenshot 2025-03-27 090723](https://github.com/user-attachments/assets/ea5637f2-429f-4f37-bdf7-7f6710c5a152)
 
-## RESULT
+## RESULT:
 Thus, a python program is implement for hill cipher substitution techniques.
